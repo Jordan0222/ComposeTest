@@ -137,6 +137,5 @@ fun Greeting(name: String) {
 
 @Composable
 fun Test() {
-    
-
+    Text(text = "Master branch")
 }
